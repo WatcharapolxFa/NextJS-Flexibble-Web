@@ -2,7 +2,7 @@ import React from 'react'
 
 const AuthProviders = () => {
   return (
-    <div>Watcharapol</div>
+    <div>Far x Far</div>
   )
 }
 
